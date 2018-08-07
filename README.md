@@ -1,8 +1,15 @@
-Created an AR Ruler app by using the following:
+# Weather-App
 
-Xcode 10
-Swift 4
-ARKit
-SceneKit
-3D Sphere
-3D Text Displayed
+
+Created an Global Weather app by using the following:
+
+* Xcode 10
+* Swift 4
+* Cocoapods
+* Location Manager: GPS Data
+* REST
+* API's
+* Networking: Alamofire
+* Swift Dictionaries 
+* JSON
+* Weather Data Model
