@@ -6,7 +6,7 @@ Created a Global Weather app by using the following:
 * Xcode 10
 * Swift 4
 * Cocoapods
-* Location Manager: GPS Data
+* Core Location: GPS Data
 * REST
 * API's
 * Networking: Alamofire
