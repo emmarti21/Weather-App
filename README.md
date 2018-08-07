@@ -1,7 +1,7 @@
 # Weather-App
 
 
-Created an Global Weather app by using the following:
+Created a Global Weather app by using the following:
 
 * Xcode 10
 * Swift 4
